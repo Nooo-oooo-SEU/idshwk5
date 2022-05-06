@@ -7,4 +7,5 @@
   - Hint
     - domain name length 
     - numbers in the domain name
-    - entropy of letteres• segmentation 
+    - entropy of letteres
+    - segmentation 
